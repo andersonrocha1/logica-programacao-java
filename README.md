@@ -1,13 +1,13 @@
 . Lógica de Programação em Java
 
-    * Este é um projeto de exemplo que aborda conceitos de lógica de programação utilizando a linguagem de programação Java. A lógica de programação é a base fundamental para o desenvolvimento de qualquer software, independentemente da linguagem de programação utilizada. Neste projeto, você encontrará uma série de conceitos e exemplos práticos de lógica de programação em Java, incluindo estruturas de controle de fluxo, estruturas de repetição e manipulação de dados.
+* Este é um projeto de exemplo que aborda conceitos de lógica de programação utilizando a linguagem de programação Java. A lógica de programação é a base fundamental para o desenvolvimento de qualquer software, independentemente da linguagem de programação utilizada. Neste projeto, você encontrará uma série de conceitos e exemplos práticos de lógica de programação em Java, incluindo estruturas de controle de fluxo, estruturas de repetição e manipulação de dados.
 
 
 . Conceitos Abordados
 
-1.  Estruturas de Controle de Fluxo
+1. Estruturas de Controle de Fluxo
 
-        * As estruturas de controle de fluxo são usadas para tomar decisões em um programa com base em condições específicas. Neste projeto, você encontrará exemplos de uso de estruturas de controle de fluxo como if, else, switch e operadores de comparação e lógicos.
+    * As estruturas de controle de fluxo são usadas para tomar decisões em um programa com base em condições específicas. Neste projeto, você encontrará exemplos de uso de estruturas de controle de fluxo como if, else, switch e operadores de comparação e lógicos.
 
 2. Estruturas de Repetição
 
